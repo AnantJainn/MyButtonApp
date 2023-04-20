@@ -26,6 +26,7 @@
     "react-native-crypto": "^2.2.0",
     "react-native-stream": "^0.1.9",
     "react-native-web": "~0.18.10",
+    "react-native-web3": "^0.1.0",
     "react-native-webview": "11.26.0",
     "web3": "^1.9.0"
   },
